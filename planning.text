@@ -1,0 +1,41 @@
+I step one
+    Go through the files available to me.
+    Style the blackjack table, after familiarizing with the html that is already exist
+    Work on buttons
+
+II Step two 
+    show the cards on the table.
+    Tag both player and dealer's cards.
+    Add cards functionallty.
+       git branch before perceeding
+
+III Step three
+    Generate cards. Betting.
+    Activate buttons to enable interaction between dealer and player
+
+IV  Step four
+    Create a deck of cards.
+    
+V   Step five
+    The game continue - using the hit button.
+    Add clicked deal button function to remove a card from deck, and place to the player's hand.
+    
+VI  Step six
+    shuffle the deck.
+
+VII Step seven
+    Calculate points for result.
+    Display the current points for dealer and player.
+    Check for win or lost
+
+VIII Step eight
+     Deal cards after stand.
+     Determine who wins the game
+     Restart the game.
+    
+    
+    
+
+
+    
+
