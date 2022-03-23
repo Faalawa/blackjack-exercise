@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.item1 {
+    background-color: rgb(32, 83, 52);
+    width: auto;
+    height: 75px;
+    margin: 0px;
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.item2 {
+    background-color: rgba(0, 0, 255, 0.493);
+    margin: 10px;
+    height: 200px;
+}
